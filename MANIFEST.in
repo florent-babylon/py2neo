@@ -1,4 +1,0 @@
-include LICENSE NOTICE
-exclude CONTRIBUTING.md README.md
-recursive-exclude test *
-recursive-exclude test_ext *
